@@ -11,3 +11,5 @@ print("Hello, {}. My name is {}.".format(name1, name2))
 
 # f-strings are another common way to format text.
 print(f"Hello, {name1}. My name is {name2}.")
+
+print("Hello, nice to meet you")
